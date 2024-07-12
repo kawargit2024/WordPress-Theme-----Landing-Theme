@@ -1,0 +1,723 @@
+
+/*============================== 
+   Medium Layout: 1200px. 
+================================*/
+
+@media only screen and (max-width:1200px) {
+ .logo {
+    width: auto;
+} 
+.single-pricing-table-wrapper,.active.single-pricing-table-wrapper {
+    border:none;
+}	
+
+.section-title h1.section-heading {
+    font-size:44px;
+}
+
+.section-title h4.section-sub-heading {
+    font-size: 20px;
+}
+
+.slogan-box-wrapper .single-slogan-content h1 {
+    font-size: 40px;
+}
+
+.home-sliders .single-slide-content-wrapper h1.slider-heading {
+    font-size: 3em;
+}
+
+
+.hero-bg-wrapper .single-hero-bg-content-wrapper h1.hero-bg-heading {
+    font-size: 7em;
+}
+
+
+.service-area .service-item-list .single-service-item-wrapper figure.single-service-item figcaption.single-service-item-caption h2 {
+   font-size: 20px;
+}
+
+
+.single-content h5 {
+    font-size:1.3em;
+}
+
+
+
+ul.tags li a {
+    font-size: 11px;
+
+}
+	
+
+.single-content #count-test1, .single-content #count-test2, .single-content #count-test3, .single-content #count-test4 {
+    font-size: 3em;
+}
+
+ul.footer-social-media li a, ul.right-side-social-media li a {
+width: 44px;
+    height: 44px;
+    padding: 0px 11px;
+    line-height: 33px;
+}
+
+	
+}
+
+
+
+/*============================== 
+
+Tablet Layout: 768px.
+   
+================================*/
+
+@media only screen and (max-width:991px) {
+.sm-mt-30{margin:30px auto 0px auto;}
+.ml-sm-0{margin-left:0px;}
+.sm-pdt-50{padding-top:50px;}
+.widget-title {
+    margin-top:45px;
+}
+
+.single-pricing-table-wrapper,.active.single-pricing-table-wrapper {
+    border:none;
+}
+
+.section-title h1.section-heading {
+    font-size:33px;
+}
+
+
+
+.hero-bg-wrapper .single-hero-bg-content-wrapper h1.hero-bg-heading {
+    font-size: 3em;
+}
+
+.home-sliders .single-slide-content-wrapper h1.slider-heading {
+    font-size: 3em;
+}
+
+
+.slogan-box-wrapper .single-slogan-content h1 {
+    font-size: 40px;
+}
+
+	
+.hero-bg-wrapper .single-hero-bg-content-wrapper h2.hero-bg-subheading {
+    text-align: center;
+}
+
+	
+.home-sliders .single-slide-content-wrapper h2.slider-sub-heading {
+    text-align: center;
+}
+
+
+.single-slide-content-wrapper h2.slider-sub-heading span {
+    left: 0;
+    margin: auto;
+}
+
+.office-info-heading, .message-info-heading {
+    width: 100%;
+    height: auto;
+	min-height: auto;
+
+}
+
+.carousel-box p {
+    font-size: 17px;
+}
+
+
+.single-content #count-test1, .single-content #count-test2, .single-content #count-test3, .single-content #count-test4 {
+    font-size: 40px;
+}
+	
+.single-content {
+    border:0px;
+}
+
+
+#menubar ul.main-menu li a {
+    padding: 31.5px 10px!important;
+    font-size: 12px!important;
+}
+
+
+div#history, div#principal, div#awards {
+    width: 100%;
+    height: auto;
+    min-height: auto;
+}
+
+	
+section#order {
+    margin-bottom: -30px;
+}	
+		
+
+ul.all-contact-info > li.contact-info {
+width:50%;
+}
+
+ul.footer-social-media li, ul.right-side-social-media li {
+    float: none;
+}
+
+
+
+
+
+	}
+/*===================== 
+
+ Mobile Layout: 320px.
+
+ ====================*/
+
+
+@media only screen and (max-width:767px) {
+
+.xs-mt-30{margin-top:30px;} 
+.ml-xs-0{margin-left:0px;}
+.pdt-xs-50{padding-top:50px;}
+.worksajax .xs-padding-0{padding:0px;}
+.pricing-item-xs,.count-item-xs,.team-item-xs {
+	width:400px;
+	max-width:100%;
+	margin:30px auto 0px auto;}
+.widget-title {
+    margin-top:45px;
+}
+
+.single-pricing-table-wrapper,.active.single-pricing-table-wrapper {
+    border:none;
+}
+
+ body {
+    font-size: 13px;
+}
+
+
+#menubar .logo{background:transparent;}
+
+
+.section-title h1.section-heading {
+    font-size: 2em;
+}
+
+ .home-sliders .single-slide-content-wrapper h1.slider-heading{
+		font-size:3em;
+	}
+
+
+ .hero-bg-wrapper .single-hero-bg-content-wrapper h1.hero-bg-heading{
+		font-size:3em;
+	}
+ .hero-bg-wrapper .single-hero-bg-content-wrapper h2.hero-bg-subheading {
+    text-align: center;
+}
+	
+.slogan-box-wrapper .single-slogan-content h1,.cta-heading  {
+    font-size:35px;
+}
+
+
+.slogan-box-wrapper .single-slogan-content {
+    margin-top: 30px;
+}
+	
+.clients-area.clients-bg4 h1 {
+    font-size:45px;
+}
+
+.profile-info-heading {
+    font-size: 20px;
+}
+
+.single-slide-content-wrapper h2.slider-sub-heading span {
+    left: 0;
+    margin: auto;
+}
+
+
+.service-area .service-item-list .single-service-item-wrapper figure.single-service-item figcaption.single-service-item-caption {
+    font-size: 12px;
+	padding:60px;
+}
+
+
+.service-area .service-item-list .single-service-item-wrapper figure.single-service-item figcaption.single-service-item-caption h2 {
+	font-size:25px;
+}
+
+.profile-video-content-wrapper .profile-video-content p,.carousel-box p,.section-title p.section-title-para,.office-location-content .office-address li span{
+	font-size:15px;
+}
+
+
+.copyright p {
+    font-size: 13px;
+}
+
+.single-content #count-test1, .single-content #count-test2, .single-content #count-test3, .single-content #count-test4 {
+    font-size: 50px;
+}
+
+
+
+.single-content {
+    border: 0px;
+}
+
+.btn-style{
+    min-width: 170px;
+    padding-top: 3px;
+    font-size: 11px;
+}
+   	
+
+.owl-nav {
+    display: none;
+}	
+  
+
+.widget-title {
+    margin-top:45px;
+}
+
+
+.menu-right-xs{
+	float:none;	
+}
+
+
+  #menubar ul.main-menu.sticky-menu {
+    position: relative;
+	 background:transparent;
+    top:0px;
+    height: auto!important;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}  
+
+#menubar ul.main-menu.sticky-menu.sticky {
+	box-shadow: none;
+    height: auto;
+    top: 0;
+}
+#menubar.menubar-fixed-top {
+	width:auto;
+	height:auto;
+    background:#2c2c2c;
+	 padding:20px 0px;
+	 	-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+
+#menubar.top-nav-collapse {
+    padding:0px;
+    background: #333435;
+	-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+
+
+#menubar ul.main-menu li {
+    display: block;
+    width: 100%;
+}
+
+#menubar ul.main-menu li >a {
+	padding: 12px 20px;
+}
+
+
+#blog .menubar-fixed-top.top-nav-collapse {
+	background: #000;
+}
+
+
+#blog #menubar ul.main-menu li a {
+    color: #fff;
+}
+
+
+#blog #menubar.menubar-fixed-top.top-nav-collapse .navbar-toggle i{
+color: #fff;	
+opacity:.7;
+	
+}
+
+#blog #menubar.menubar-fixed-top.top-nav-collapse ul.main-menu li a:hover,#blog #menubar.menubar-fixed-top.top-nav-collapse .navbar-toggle i:hover{	
+opacity:1;
+	
+}
+
+
+
+div#history, div#principal, div#awards {
+    width: 100%;
+    height: auto;
+    min-height: auto;
+}
+
+
+.carousel-box h3.client-title {
+   font-size:1.5em;
+}
+
+#menubar .logo {
+left: 0;
+box-shadow:none;
+width: 130px;
+-webkit-box-shadow: none;
+transition:.5s;
+
+}
+	
+.work-menu li a {
+    padding: 7px 20px;
+    margin: 5px;
+}
+
+
+ul.team-member-info li {
+    display: block;
+}
+
+section#order {
+    margin-bottom: -30px;
+}	
+	
+
+.single-pricing-table-wrapper.single-pricing-body ul li {
+    font-size: 13px;
+}
+
+	
+ul.all-contact-info {
+    position: relative;
+}
+
+ul.all-contact-info > li.contact-info {
+width:100%;
+}
+
+.office-info-heading, .message-info-heading {
+font-size: 30px;
+    height: auto;
+    min-height: auto;
+
+}
+
+.single-blog-content-wrapper {
+    background: #fff;
+    padding: 10px;
+}
+
+
+ul.footer-social-media li, ul.right-side-social-media li {
+    display: inline-block;
+    float: none;
+    padding: 0px 0px;
+}
+
+ul.footer-social-media li, ul.right-side-social-media li {
+    float: none;
+}
+
+a.custom-logo-link {
+        position: fixed!important;
+        width: 150px!important;
+        height: auto!important;
+        top:15px!important;
+    }
+
+#menubar ul.main-menu li a,.blog #menubar ul.main-menu li a,.single-post #menubar ul.main-menu li a {
+    padding:10px!important;
+    text-align:center;
+    color:#fff!important;
+}
+
+button.navbar-toggler {
+    background: #ddd!important;
+}
+
+.blog a.navbar-brand,.single-post a.navbar-brand {
+    color: #fff!important;
+}
+
+.widget {
+    margin-top: 30px;
+}
+	
+	
+}
+
+
+/*===================== 
+
+Wide Mobile Layout: 480px. 
+
+ ====================*/
+
+@media only screen and (max-width:480px) {
+.wide-mobile-pdt-30{padding-top:30px;}
+.wide-mobile-pdt-50{padding-top:50px;}
+.wide-mobile-mt-40{margin-top:40px;}
+.wide-mobile-margin {margin:30px auto 30px auto;}
+.section-title {text-align: center;}
+.single-pricing-table-wrapper,.active.single-pricing-table-wrapper {
+    border:none;
+}
+
+.home-sliders .single-slide-content-wrapper h1.slider-heading,.slogan-box-wrapper .single-slogan-content h1{
+font-size:2em;
+
+}
+
+section.clients-area.clients-bg4 h1 {
+    font-size: 30px;
+}
+
+.right-side-bar h1, .blog-left h1 {
+    font-size: 20px;
+}
+
+.single-slide-content-wrapper h2.slider-sub-heading span {
+    left: 0;
+    margin: auto;
+}
+
+ .hero-bg-wrapper .single-hero-bg-content-wrapper h1.hero-bg-heading{
+		font-size:2em;
+	}
+ .hero-bg-wrapper .single-hero-bg-content-wrapper h2.hero-bg-subheading {
+    text-align: center;
+}
+
+.section-title h1.section-heading {
+    width:auto;
+}
+
+.office-info-heading, .message-info-heading {
+    width: 100%;
+    height:auto;
+}
+
+.section-title p.section-title-para {
+    font-size: 16px;
+}
+
+.profile-video-content-wrapper .profile-video-content p {
+	font-size:15px;
+}
+
+figure.single-work-item-wrapper figcaption.image-caption ul li p.work-title {
+    font-size: 15px;
+
+}
+
+
+div#history, div#principal, div#awards {
+    width: 100%;
+    height: auto;
+    min-height: auto;
+}
+
+
+.single-content {
+    border:0px;
+}
+
+
+.widget-title {
+    margin-top: 50px;
+}
+
+ul.single-blog-caption li a {
+    font-size: 15px;
+}
+
+ul.tab-nav.nav.nav-pills li a {
+    padding:7px;
+}
+
+input.submit-btn {
+    margin-top: 30px;
+    padding-top: 3px;
+}
+
+
+.service-area .service-item-list .single-service-item-wrapper figure.single-service-item figcaption.single-service-item-caption h2 {
+	font-size:20px;
+}
+
+.service-area .service-item-list .single-service-item-wrapper {
+width: 100%; 
+height:auto;
+min-height: 100%;
+}
+
+.service-area .service-item-list .single-service-item-wrapper figure.single-service-item figcaption.single-service-item-caption {
+    font-size: 12px;
+	padding: 40px 20px;
+}
+
+.single-content #count-test1, .single-content #count-test2, .single-content #count-test3, .single-content #count-test4 {
+    font-size: 50px;
+}
+
+.slogan-box-wrapper {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+	text-align: center;
+}
+
+.slogan-box-wrapper .single-slogan-content {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+     margin:0px;
+}
+
+.slogan-box-wrapper h3 {
+    top: -40px;
+}
+
+
+.clients-area .quote-icon i {
+    font-size: 3em;
+	padding: 10px 16px;
+}
+	
+
+
+.work-menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+
+ul.list-grp li a.page-close-link {
+    bottom: 20px;
+}
+
+
+ .single-pricing-body {
+    width: 100%;
+	height:auto;
+}
+
+
+.single-brand-wrapper {
+    width: 60%;
+    margin: auto;
+}
+
+.single-brand-item {
+    width: auto;
+    min-width: 128px;
+    margin: auto;
+}
+
+.cta-heading {
+    font-size: 35px;
+}
+
+.profile-video-content-wrapper .profile-video-content a {
+position: absolute;
+display: inline-block;
+width: 50px;
+height: 50px;
+line-height: 50px;
+border: 3px solid #fff;
+border-radius:0px;
+padding: 1px 0px 10px 8px;  
+bottom: 0;
+left: 0;
+-webkit-transition: .5s;
+transition: .5s;
+}
+
+.profile-video-content-wrapper .profile-video-content > a > i {
+    font-size: 25px;
+    color: #fff;
+}
+
+
+.office-info-heading, .message-info-heading {
+font-size: 30px;
+    height: auto;
+    min-height: auto;
+
+}
+
+.office-location-content .office-address li {
+    display: block;
+    width: auto;
+}
+
+
+
+.office-location-content .office-address li span {
+    font-size: 16px;
+}
+
+ul.all-contact-info > li.contact-info {
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    min-height: 130px;
+    padding: 19px;
+    font-size: 11px;
+}
+ 
+ ul.all-contact-info {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+
+ul.footer-social-media li, ul.right-side-social-media li {
+    display: inline-block;
+    float: none;
+    padding: 0px 0px;
+}
+
+.scrolltop {
+    width: 50px;
+    height: 24px;
+    font-size: 20px;
+}
+
+a.custom-logo-link {
+    position: fixed!important;
+    width: 100px!important;
+    height: auto!important;
+    top:15px!important;
+    }
+
+    /* #menubar ul.main-menu li a {
+        padding:10px!important;
+        text-align: center;
+    } */
+
+    /* button.navbar-toggler {
+        background: #ddd!important;
+    } */
+
+}
